@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to Benjamin Bird's ignorance, folly, &amp;c. By him dedicated to his ingenious and very loving friend, Mr. William Clap of Abbots Wootton.</title>
+            <author>Field, John, 1652-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85260</idno>
+            <idno type="STC">Wing F864B</idno>
+            <idno type="STC">ESTC R177044</idno>
+            <idno type="EEBO-CITATION">45789307</idno>
+            <idno type="OCLC">ocm 45789307</idno>
+            <idno type="VID">172616</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172616)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2641:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to Benjamin Bird's ignorance, folly, &amp;c. By him dedicated to his ingenious and very loving friend, Mr. William Clap of Abbots Wootton.</title>
+                  <author>Field, John, 1652-1723.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: John Feild [i.e. John Field].</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bird, Benjamin.</term>
+               <term>Clap, William.</term>
+               <term>Society of Friends --  England --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172616:1" rendition="simple:additions"/>
+            <head>A REPLY to <hi>BENJAMIN BIRD</hi>'s Ignorance, Folly, &amp;c.</head>
+            <head type="sub">By him dedicated to his Ingenious and very Loving Friend, Mr. <hi>William Clap</hi> of <hi>Abbots Wootton.</hi>
+            </head>
+            <p>
+               <hi>SOlomon</hi> gives an account of one that is wiſer in his own Conceit than 7 Men, that can render a Reaſon; and tells us, there is more Hopes of a Fool than of him: And alſo aptly ſaith, <hi>A whip for a horſe, a bridle for an aſs, and a rod for the fool's back.</hi> But when by many fit Compariſons he hath ſet him forth, and ſhewn how unfit he is to ſend a Meſſage by, declares, the great God that formed all things will both reward the Fool and Tranſgreſſors. And therefore I doubt not but he will reward him whoſe Fol<g ref="char:EOLhyphen"/>ly and Conceit, Pride and Enmity hath brought him to that Pitch, to account others ignorant and nonſenſical, and himſelf a great Diſcoverer; which indeed I muſt grant he is of his own Folly,
+<hi>&amp;c.</hi> And becauſe I am not willing any ſhould take this upon my Authority only, I ſhall offer the following Conſiderations, and leave it to the truly wiſe and judicious to determine.</p>
+            <p n="1">I. Conſidering what <hi>Solomon</hi> ſaith; <hi>It is an honour for a man to ceaſe from ſtrife, but every fool will be meddling.</hi>
+            </p>
+            <p>And again, He <hi>that meddleth with ſtrife, belonging not to him, is like one that taketh a dog by the ears, and as a mad-man, who caſteth fire-brands, arrows and death,</hi> Prov. 26.18.</p>
+            <p n="2">
+               <pb n="2" facs="tcp:172616:2"/>II. Now this Man's Coat conſidered, and whoſe Cauſe he eſpouſeth, I leave to the Judicious to determine, how aptly theſe Scriptures are applyed to him, and how it becomes him to be Advocate for the Presbyterians.</p>
+            <p>But if his Conceit (which is generally a Companion of Folly) was ſo great that the Quakers Book could not be effectually anſwered till he had term'd 2 of them Non<g ref="char:EOLhyphen"/>ſenſical; I muſt confeſs his Conceit have exceeded his Proofs. Thus much to his Folly. And now as to his Pride; let him conſider what <hi>Solomon</hi> ſaith, <hi>He that is of a proud heart ſtirreth up ſtrife; and, if the ſcorner was caſt out, ſtrife would ceaſe.</hi> And as little Senſe as he e<g ref="char:EOLhyphen"/>ſteems the Quakers to have, they can by his Pamphlet diſcern that his Pride and Contempt againſt the Light within, ſhews his Enmity, and beſpeaks him an Evil-Doer; for, as Chriſt ſaid, it's ſuch as hate the Light: And he writes in defence of him that ſaid,
+<q rend="inline margQuotes">"The Light within is the great
+<hi>Diana,</hi> by whom the Jacks of all Tra<g ref="char:EOLhyphen"/>ders have their Wealth. Hence it is that theſe Crafts-Men ſpeak ſo honourably of the Idol; great is the Quakers Light within.</q>
+            </p>
+            <p>Thus like <hi>Herod</hi> and <hi>Pilate,</hi> the Presbyterian Libeller and this Epiſcopalian Prieſt (tho' I eſteem not all of his Mind) can combine together to vent their Scorn and En<g ref="char:EOLhyphen"/>mity againſt that he calls the Quakers Light within, which they always affirmed to be no other but the Light of Je<g ref="char:EOLhyphen"/>ſus Chriſt, who is the <hi>true light, which lighteth every man that cometh into the world,</hi> and was before they were, and will be, when all they that hare him ſhall be confounded; <hi>he ſhall appear to our joy, and they that hate him ſhall be aſhamed,</hi> Iſa. 66.</p>
+            <p>Now, having premiſed this, I ſhall proceed to his Pamphlet, more for the ſake of the tender and well in<g ref="char:EOLhyphen"/>clined People in <hi>Exon</hi> and elſwhere that may meet there<g ref="char:EOLhyphen"/>with, than for this Officious Scribler's ſake. And that People's Underſtandings may be opened to ſee how ſuch Teachers, that hate the Light, and that are found in the Spirit and Practice of the falſe Prophets, can never pro<g ref="char:EOLhyphen"/>fit<pb n="3" facs="tcp:172616:2"/>them at all; altho by uſing the good Men's Words, that loved and walked in the Light, they get gain the thing that too many of them more ſeek than Godlineſs. And I hope thoſe that peruſe this, will, like the noble <hi>Bereans,</hi> ſearch the Scriptures, and ſee whether theſe things are ſo or not.</p>
+            <p n="1">I. Page 2. he ſaith, <hi>Sir, I have, according to your De<g ref="char:EOLhyphen"/>ſire, peruſed a Paper, printed by</hi> John Feild <hi>and</hi> J. Batt,
+<hi>called.</hi> A Reply to an Atheiſtical <hi>Libeller. The Author whom they ſo call, they charge with concealing his Name; and then asks this Queſtion: How then do they know him to be an Atheiſtical Libeller?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> By his writing atheiſtically, as may be ſeen in the 10th page of his; and the 2d and 8th of my <hi>Scor<g ref="char:EOLhyphen"/>ner rebuked.</hi> But this Volenteer of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that comes to engage in the Presbyterian's Quar<g ref="char:EOLhyphen"/>rel, is ſo eager to fall on, and ſcornful as to term us Nonſenſical, although he had not the Book by him. But he, at the Cloſe of that Paragraph hath quoted a Scripture that may well ſuit him; which I return: <hi>Though judgments are prepared for ſcorners, yet ſtripes are for the back of fools;</hi> for would ever any but ſuch an one have taken the Pains, and expoſed himſelf as he hath, to anſwer a pitiful Pamphlet, writ, as he ſaith, by two of the Nonſenſical Brotherhood? But what kin he is to that Brotherhood, his Works beſpeak him, and I may herein after ſhew. For,</p>
+            <p>In his 2d page, <hi>He tells his Ingenious and worthy Friend Mr.</hi> William Clapp <hi>of</hi> Abbots Wootton, <hi>becauſe my Friend</hi> J. Batt <hi>wrote a few Lines by way of Poſts, That theſe Gentlemen hunt by Couples, as if they had learn'd of their Friends, on the other ſide the Water.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> I hope his ingenious Friend and others will have ſo much Ingenuity as to ſee the Sillineſs as well as Malice of this Inſinuation, for I doubt not but to give as many and ſubſtantial Proofs, if need required, of be<g ref="char:EOLhyphen"/>ing remote in Spirit, Doctrine and Practice from thoſe on the other ſide <hi>i. e. Rome,</hi> as himſelf; and let his wor<g ref="char:EOLhyphen"/>thy<pb n="4" facs="tcp:172616:3"/>Friend examine his Call to the Miniſtry he pretends unto, and ſee if he flies not to the other Side of the Wa<g ref="char:EOLhyphen"/>ter for Proof.</p>
+            <p>He alſo ſaith, Page 1. <hi>They charge Men with want of Allegiance to Chriſt, that hold it impoſſile, while they are here, perfectly to keep his Commands, or to live without tranſgreſſing God's Laws.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> From hence I ſhall take occaſion to repeat what he writ (that this Parſon writes in defence of) <hi>viz.</hi> the nameleſs Libeller I anſwered. In his Preface he writ ſcurrilouſly and ſcornfully, and brought in a Quo<g ref="char:EOLhyphen"/>tation out of Dr. <hi>Moor</hi>'s Myſtery of Godlineſs, as he ſaid, which he groſly perverted, and thereby abuſed both the Doctor and us, in adding the Word <hi>Quaker<g ref="char:EOLhyphen"/>iſm,</hi> which is not there, inſtead of <hi>Familiſm,</hi> as may be ſeen by thoſe that will ſearch the Doctor's Book, p. 533. The Doctor doth not ſay Quakeriſm, but
+<hi>Familiſm, is a meer Flam of the Devil, a ſmooth Tale to ſeduce the ſimple from their Allegiance to Christ.</hi> From whence I obſerved how they inſinuated, That Allegiance was due to Chriſt, and he conſequently muſt be a King or Ruler: Yet, ſaid I, how many are alledging, that its impoſſible, while we are here to keep Chriſt's Com<g ref="char:EOLhyphen"/>mands. This was to ſhew their Inconſiſtency with their own Pretenſions and Doctrine, firſt that <hi>Allegiance, i. e.</hi> (Truth and Faithfulneſs) ought to be the Practice, as 'tis the Duty of Chriſt's Diſciples and God's Children, and yet that its impoſſible for them to diſcharge that Duty or be found in that Practice.</p>
+            <p n="2">2. Man of himſelf, or by his own Strength and Ability is not able to do any thing that is good or well-pleaſing to God, which every true Chriſtian muſt acknowledge, be<g ref="char:EOLhyphen"/>cauſe Chriſt hath ſaid to his Diſciples, <hi>without me ye can do nothing:</hi> Yet thoſe that through Faith and Obedience become Chriſt's Diſciples and God's Children, are through that Grace and Truth that came by Jeſus Chriſt, and hath appeared to all Men, taught and enabled to fear God, and keep his Commandments, which is the whole<pb n="5" facs="tcp:172616:3"/>Duty of Man, and is that <hi>Allegiance</hi> which I eſteem we all owe unto Jeſus Chriſt, the great King of Heaven and Earth, and the mighty Ruler of Princes.</p>
+            <p>And I deſire <hi>B. Bird,</hi> his Friend, and all to whom this may come, ſeriouſly to conſider the evil Conſequence of ſuch Doctrine, <hi>viz.</hi> That 'tis <hi>impoſſible,</hi> while Men are here, to keep God's Commands. From whence I obſerve,</p>
+            <p n="1">I. It's contrary to Chriſt's Saying, <hi>Matth.</hi>
+19.26. and <hi>Mark</hi> 9.23. <hi>If thou canst believe, all things are</hi> poſſible <hi>to him that believeth.</hi>
+            </p>
+            <p n="2">II. It renders the End of Chriſt's giving himſelf, not ſufficient or <hi>poſſible</hi> to effect it, <hi>viz. That he might redeem us from</hi> ALL <hi>iniquity,</hi> ſee <hi>Tit.</hi> 2.14.</p>
+            <p n="3">III. It contradicts <hi>Paul</hi>'s Exhortation to
+<hi>Titus,</hi> v. 15. <hi>Theſe things ſpeak, and exhort and rebuke with all autho<g ref="char:EOLhyphen"/>rity.</hi> What Things? One of which was, <hi>That Christ gave himſelf for us, that he might redeem us from</hi> ALL <hi>iniquity.</hi>
+            </p>
+            <p n="4">IV. And its directly contrary to what the Spirit of God hath declared, <hi>John</hi> 1.7. viz. <hi>If we walk in the Light, as he is in the Light, we have fellowſhip one with another, and the blood of Jeſus Chriſt his ſon cleanſeth us from</hi> ALL <hi>ſin.</hi>
+            </p>
+            <p n="5">V. And it contradicts what <hi>B. B.</hi> quotes, and the Apoſtle declares, 1 <hi>John</hi> 1.9. <hi>If we confeſs our ſins, he is faithful and just to forgive us our ſins, and to cleanſe us from</hi> ALL
+<hi>unrighteouſneſs.</hi>
+            </p>
+            <p n="6">VI. It renders People unfit to enter God's Kingdom, or going where Chriſt is, as appears by Chriſt's own Words and the holy Scripture-Teſtimony, <hi>John</hi> 8.21. <hi>Then ſaid Jeſus again unto them, I go my way, and ye ſhall ſeek me, and ſhall dye in your Sins; and whither I go ye cannot come.</hi> See alſo v. 24. And in 1 <hi>Cor.</hi>
+6.9,10. it appears that the unrighteous cannot inherit the King<g ref="char:EOLhyphen"/>dom of God, and if its not <hi>poſſible</hi> to be righteous while we are here, its not
+<hi>poſſible</hi> to enter God's King<g ref="char:EOLhyphen"/>dom, for its ſaid, 1 <hi>John</hi>
+3.7,8. <hi>Little children, let no<pb n="6" facs="tcp:172616:4"/>man deceive you, he that doth righteouſneſs is righteous, even as he is righteous; he that committeth ſin is of the Devil,</hi> &amp;c. And 1 <hi>John</hi> 5.17.
+<hi>all unrighteouſneſs is ſin,</hi> and ſo is the Breach of God's Law and holy Command<g ref="char:EOLhyphen"/>ments.</p>
+            <p n="7">VII. And laſtly, this Doctrine of its being
+<hi>impoſſible</hi> to keep God's Commands, or for Chriſtians to live here without tranſgreſſing God's Laws, renders the Devil more powerful to lead and keep People in ſin, than Chriſt Jeſus (to whom all Power both in Heaven and Earth is given) is to lead and preſerve People out of ſin, and beſpeaks all thoſe unreaſonable Men, that will ob<g ref="char:EOLhyphen"/>lige Perſons to
+<hi>promiſe</hi> and <hi>vow</hi> in the Children's Name, when baptized (as they call it) thoſe things which they do not believe its
+<hi>poſſible</hi> ſhould be performed, <hi>viz.</hi> That the Child
+<hi>will renounce the Devil and</hi> ALL <hi>his Works, and conſtantly believe God's holy Wo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, and obediently keep his Commandments.</hi> See the Common Prayer, concerning the Miniſtration of Baptiſm, when the Prieſt ſaith to the Sureties, unſcripturally called <hi>God-fathers,</hi>
+            </p>
+            <p>
+               <hi>I demand therefore, Doſt thou in the Name of this Child renounce the Devil and all his Works, the vain Pomps and Glory of the World, with all covetous Deſires of the ſame, and the Carnal Deſires of the Fleſh, ſo that thou wilt not follow nor be led by them?</hi>
+            </p>
+            <p>Anſwer. <hi>I renounce them all.</hi>
+            </p>
+            <p>See alſo the 3d and 4th Anſwer, in the Catechiſm in the Common-Prayer-Book. I deſire <hi>B. Bird</hi> and <hi>his Ingenious Friend</hi> may ſeriouſly conſider theſe things, and theſe Covenants and Promiſes, and whether its reaſon<g ref="char:EOLhyphen"/>able and juſt that <hi>B. Bird</hi> ſhould take Mony of People, and oblige them to <hi>PROMISE AND VOW</hi> on this wiſe that which he declares it's <hi>
+                  <g ref="char:V">Ʋ</g>NPOS<g ref="char:EOLhyphen"/>SIBLE</hi> to perform; and yet in the Common Pray<g ref="char:EOLhyphen"/>er and Collect, on <hi>Innocent's Day,</hi> prays; <hi>O Almighty God, mortifie and kill</hi> ALL <hi>Vices in us, and ſo ſtrengthen us by thy Grace, that by the Innocency of our Lives and Conſtancy of our Faith, even unto</hi> DEATH, <hi>we may glorifie thy Holy Name, through Jeſus Chriſt our Lord.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:172616:4"/>And in the Collect of the <hi>Circumciſion of Chriſt</hi> its ſaid, <hi>Almighty God grant us the true Circumciſion of the Spirit, that</hi> ALL <hi>our Hearts, and</hi> ALL OUR MEMBERS <hi>being mortified from</hi> ALL <hi>worldly and carnal Luſts, we may in</hi> ALL THINGS <hi>obey thy Bleſſed Will, through the ſame thy Son Jeſus Chriſt our Lord.</hi>
+            </p>
+            <p>Surely if <hi>Benj. Bird</hi> doth not believe it poſſible, while People live here, to keep God's Commands, or l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve without tranſgreſſing God's Law, he doth not pray in Faith; or believe its poſſible to have <hi>ALL</hi> Vices kil<g ref="char:EOLhyphen"/>led in him, and <hi>ALL</hi> Carnal and Worldly <hi>L<g ref="char:V">Ʋ</g>STS</hi> mortified; or that in <hi>ALL THINGS</hi> its <hi>POS<g ref="char:EOLhyphen"/>SIBLE</hi> for him to obey God's bleſſed Will, through Jeſus Chriſt. If he doth let him bluſh and be aſhamed of venting and publiſhing ſuch Doctrine in Print; for what greater Perfection ever did any Quaker teach or pretend unto in this Life than what's implyed in what's afore-quoted?</p>
+            <p>And what a Man of Senſe this <hi>Benj. Bird</hi> is, that terms
+<hi>Jaſper Batt</hi> and me nonſenſical, and how concur<g ref="char:EOLhyphen"/>ring or contradictory he writes, and what excellent ſenſe, for a concluſion of this Head, take his own Words, p. 2.</p>
+            <p>
+               <hi>Gods Commands are not grievous to good Men,</hi> THEY KEEP THEM WITH ALL THEIR HEARTS; <hi>tho' by Reaſon of human Infirmities</hi> THEY FAIL IN THE KEEPING OF THEM.</p>
+            <p>Mark, they keep them with all their Hearts, tho' they fail in the keeping of them: Is not this egregious Non<g ref="char:EOLhyphen"/>ſenſe? And he farther ſaith in the ſaid Page, <hi>And we may keep our Allegiance to Chriſt, altho' we cannot live without tranſgreſſing Gods Law.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> I deny that we can keep in Truth and Faith<g ref="char:EOLhyphen"/>fulneſs to Chriſt, which I account Allegiance, and yet live at the ſame time in tranſgreſſing againſt God's Law: And how agreeable this is to what the Miniſter is to read in the <hi>Commination,</hi> after he hath pronounced the Unmerciful, Fornicators and Adulterers, Covetous Per<g ref="char:EOLhyphen"/>ſons,
+<pb n="8" facs="tcp:172616:5"/>Idolaters, Slanderers, Drunkards and Extortion<g ref="char:EOLhyphen"/>ers curſed, and the People have ſaid <hi>Amen:</hi> I deſire him and the Reader to examine and conſider, and alſo how agreeable it is to what is ſaid in
+<hi>miſere mei Deus?</hi> viz. <hi>Waſh me</hi> throughly <hi>from my wickedneſs, and cleanſe me from my ſin. Thou ſhalt purge me with hyſop, and I ſhall be clean, thou ſhalt waſh me and I ſhall be whiter than ſnow.</hi>
+            </p>
+            <p>In Page 3. he ſaith, <hi>Secondly,</hi> John Feild <hi>calls the Author of the Saucineſs of a Seducer rebuked, a Scribling Libeller; and charges him with Blaſphemy against the Light within,</hi> which he ſaith,
+<hi>is no other than the Light of Christ Jeſus;</hi> But this had need be well proved.</p>
+            <p>
+               <hi>Anſwer.</hi> I hope thoſe that read my Anſwer will find, in p. 5, 6, 7, 8. I have proved by Scripture-Teſtimony, That the Life in the Word; by which all things were made, is the true Light that lighteth every Man that com<g ref="char:EOLhyphen"/>eth into the World; or as it may be read, the true Light, that enligtneth every Man that cometh into the World: And it was this Light within, or the <hi>Light of Chriſt within,</hi> that <hi>Joſ. Nott,</hi> whom he quotes, exhort<g ref="char:EOLhyphen"/>ed his Reader to mind or believe in: And I hope he is excuſable for this, it being according to Chriſt's Do<g ref="char:EOLhyphen"/>ctrine, and to what is ſaid in the Common-Prayer, for this Prieſt himſelf, at the Celebration of the Commu<g ref="char:EOLhyphen"/>nion is directed to ſay to the Communicants, <hi>That we dwell in Chriſt, and Chriſt in us, we are one with Christ and Chriſt is one with us.</hi> And if Chriſt be in us, then the Light is in us, for he is the Light of the World: And this I ſhewed in my former. But if <hi>B. Bird</hi> had not my Book by him when he wrote it, and did it on Memory, he might forget. And in p. 2. he confeſſes, <hi>I have not the Book by me at preſent, but to the beſt of my remembrance,</hi> &amp;c.</p>
+            <p>But <hi>Benj. Bird</hi> ſaith, this had need be well proved; and adds, <hi>'Tis not enough for Men to ſay 'tis the Light of Chriſt.</hi> But let me ask this learned Doctor, If he hath obtained that Title, what need I have to prove it, when<pb n="9" facs="tcp:172616:5"/>he hath not taken the Confidence here to deny it, but quotes <hi>Luke</hi> 16.15. <hi>If the Light that is in thee be darkneſs, how great is that darkneſs:</hi> And then ſaith, <hi>This</hi> may <hi>be your Caſe.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> And it may not, for that which may be may not be; and I may return, <hi>Prov.</hi> 18.7. and ſay, <hi>If a fools lips enter into contention, and his mouth calleth for Stroaks,</hi> This may be thy Caſe.</p>
+            <p n="3">3. p. 3. <hi>B. Bird</hi> ſaith, I charge the Diſſenters with coming to Church to ſave their 20 <hi>
+                  <abbr>l</abbr> per</hi> Month.</p>
+            <p>
+               <hi>Anſwer.</hi> The occaſion I mentioned this was, becauſe the Libeller ſaid thus, That ſince they, <hi>i. e.</hi> Quakers, felt the warmth of Toleration, they ſwarmed among us; which ſavoured ſo much of Enmity and a Perſe<g ref="char:EOLhyphen"/>cuting Spirit.</p>
+            <p>That I told him we alſo had felt the Laſhes and Seve<g ref="char:EOLhyphen"/>rity of his Brethren, the Heat of their Anger, for it was fierce, the Warmth of their Wrath, for it was cruel, who did both Whip, Brand, cut off Ears and Hanged in
+<hi>New England,</hi> when Power was in their Hands—And how their Meeting-houſes were empty and ſhut up, their Preachers abſconded, their Flocks ſcattered in time of Perſecution: And then <hi>Paul</hi>'s Basket was remembred; then their Chriſtian Policy was us'd; then to Church for fear of 20 <hi>
+                  <abbr>l</abbr> per</hi> Month; or leſt they ſhould be excommunicated and ſuffer Impriſoment.</p>
+            <p>But this officious Advocate ſeems offended at this, and ſaith, p. 3. <hi>The moſt learned of the Diſſenters hold it law<g ref="char:EOLhyphen"/>ful to joyn with us in our publick Worſhip, tho' they count it their Duty to improve their Talents, and not hide them in a Napkin,</hi> now <hi>they have the Countenance of Au<g ref="char:EOLhyphen"/>thority to preach the Goſpel in licenſed Houſes.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> Obſerve firſt the account this Man gives of the Presbyterian Preachers, and how he renders them like that unfaithful Servant the Lord judged. See <hi>Matt.</hi> 25.25. and <hi>Luke</hi> 19.24. for hiding his Talent, for he grants that when they had not the Countenance of Authority they hid their Talents in a Napkin; but<pb n="10" facs="tcp:172616:6"/>now they have it, preach the Goſpel in licenſed Houſes.</p>
+            <p>Secondly, Obſerve, he grants they Preach the Goſpel, and then what are thoſe and their Portion, that at any time Perſecute ſuch for that Cauſe? ſurely the Men of this Man's Coat will not thank him for this, for if the Church of <hi>England</hi> have impriſoned Perſons for Preaching of the Goſpel, what doth this leſs than render them Perſecutors? So his Officiouſneſs in this Caſe with theſe Notes, I ſhall leave to the Determination of the unprejudiced.</p>
+            <p>Concerning what this Author ſaith of the Light with<g ref="char:EOLhyphen"/>in, which we believe in and profeſs, <hi>viz.</hi> Jeſus Chriſt the true light, and only begotten Son of the Eternal God, I ſhall next take notice of.</p>
+            <p>Page 4. he ſaith, <hi>This Light the Eunuch had not, and therefore</hi> Philip <hi>did not ſend him to it.</hi> 2. <hi>And when Chriſt was riſen from the Dead, and travelled with the two Diſciples towards</hi> Emmaus, <hi>he did not ſend them to the Light in their own Hearts and Conſciences, to know him by.</hi> 3. Page 5. <hi>The Jews were directed by the Light with<g ref="char:EOLhyphen"/>in to kill the Diſciples of our Lord, and thought they did God good Service in doing it.</hi> 4. <hi>Men may follow ſuch a Light within into the Land of Darkneſs.</hi> 5. <hi>there are many things needful for Men to know, which we cannot at<g ref="char:EOLhyphen"/>tain unto by the Light within.</hi>
+6. <hi>That Light which is in him</hi> (i. e. John Feild) <hi>was not before the Scriptures, for if it be worthy the Name of Light it came from the Scriptures.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> I deny all this, and if <hi>B. Bird</hi> intends all theſe Exceptions againſt that Divine Light which the Peo<g ref="char:EOLhyphen"/>ple called Quakers profeſs to believe in, and which their Teachers are ſent of God, to turn People's Minds unto, and which they exhort People to mind and believe in, he is as blaſphemous as the Libeller he writes in Defence of; whom I in my former blamed for ſcoffing at the Light of Jeſus Chriſt. See page 4. And ſeeing in page 4. of <hi>B. Bird</hi>'s, he ſaith, <hi>I ſhould have ſo much Charity as to think, that the Author doth not think it to be the Light of Chriſt.</hi> I farther ſay, if that Author did not, nor
+<pb n="11" facs="tcp:172616:6"/>this Author doth not intend the Light of Jeſus Chriſt, which lighteth every Man that cometh into the World, and which God ſent
+<hi>Paul</hi> to turn People to; See <hi>Acts</hi> 26.18. And which Chriſt preach'd, <hi>John</hi> 12.46, and which he exhorted to believe in, ſee
+<hi>John</hi> 12.36. For it is he that we Preach Believe in, and expect Salvation by, and by no other Name nor Light; and if this Author means not this Light, the means not the Light we believe in and profeſs; but if he means and intends this Light, <hi>i. e.</hi> Jeſus Chriſt, I abſolutely deny every one of them, as aforeſaid, and hereby charge him to be a Blaſphemer, and return on him what he ſaith to me about this Light, in p. 3. 'Tis not enough for Men to ſay, 'tis not the Light of Chriſt, that we have within, or that ſhines in ours and all Men's Hearts, and manifeſt to all reprov<g ref="char:EOLhyphen"/>able things, and ſhews what is Good and what is Evil, that doth that for every Man, that the Scriptures of themſelves nor no Man can do for another. I ſay its not enough to ſay this is not the Light of Chriſt, or Chriſt the true Light, <hi>that lighteth every Man that cometh into the World;</hi> but by plain Proof to make it appear if they can, which I know they are no more able to do than to hinder the Sun from ſhining nor the Wind from Blowing. And therefore the Teachers amongſt the People called Quakers, exhort People to mind, love and receive, to be<g ref="char:EOLhyphen"/>lieve and walk in this divine Light, that will do that for them which no other can, it will ſhew them their Thoughts, diſcover their Conditions, let them ſee they are Sinners, and that they cannot ſave them<g ref="char:EOLhyphen"/>ſelves. And as they believe in this Light, are truly ſorry for their Sins, and unfeignedly repent of them, and come to walk in this Light, they will have the Benefit of the Death and Sufferings of the Lord Jeſus Chriſt, that dyed for our Sins, and roſe again for our Juſtification, and experience his Blood to cleanſe them from <hi>ALL</hi> Unrighteouſneſs, and may come to find Peace be fitted for God's Kingdom, and know Salvation to their immortal and never-dying Souls: But thoſe that
+<pb n="12" facs="tcp:172616:7"/>rebel againſt it do evil and hate it, and will not receive nor believe in it, nor bring their Deeds to it, if they were as wiſe as
+<hi>Achitophel,</hi> as learned as <hi>Gamaliel,</hi> and could live to the Age of <hi>Methuſalem,</hi> they can never know true Peace, nor enter into God's Kingdom. But will be puniſhed with everlaſting Deſtruction from the Preſence of the Lord, and from the Glory of his Power, 2 <hi>Theſſ.</hi>
+1.9. and will be turned into outter Darkneſs; where the Weeping and Gnaſhing of Teeth is, <hi>Mat.</hi> 8.12.</p>
+            <p>Therefore let all have a care they do not hate it, nor rebel againſt it, nor continue in any thing that this Light manifeſts to them to be contrary to the Will of God, but believe in it, that they may receive Power to do that which it ſhews them they ought to do, and become the Sons of God: And if <hi>B. Bird</hi> will but dili<g ref="char:EOLhyphen"/>gently and reverently read the Goſpel in the Common-Prayer, which is to be read on <hi>Chriſtmas-day,</hi> he may find this Doctrine throughly proved; and this Exhor<g ref="char:EOLhyphen"/>ration in the Commination,
+<hi>viz. Let us, while we have the Light, believe in the Light, and walk as the Children of the Light, that we be not caſt into utter Darkneſs, where is Weeping and Gnaſhing of Teeth.</hi>
+            </p>
+            <p>The next thing I obſerve is his quarrelling about the Scriptures; concerning which he ſaith, page 5. which was p. 9. of my former,
+<hi>viz. That Chriſt's Light is to be preferred, becauſe it was before the Scriptures.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> Yes ſo it is and ſo doth <hi>B. Bird</hi> confeſs, for he ſaith, <hi>they were given us by Chriſt,</hi> then Chriſt was before them, and is worthy to be preferred above the Scriptures, which <hi>B. B.</hi> ſaith were given us by Chriſt. See p. 6. and will he prefer the Gift before the giver?</p>
+            <p>And in p. 6. he ſaith, I charge thoſe that take the Scriptures for their <hi>only</hi> Rule of Faith and Obedience, as if they did ſet them above the Spirit, and above Chriſt. But he quotes no page of my Book: However
+<hi>B. Bird</hi> ſaith, This is a falſe Charge, for they are given us by Chriſt.</p>
+            <p>
+               <pb n="13" facs="tcp:172616:7"/>
+               <hi>Anſwer.</hi> Then Chriſt was before the Scriptures, as afore<g ref="char:EOLhyphen"/>ſaid, and <hi>B. Bird</hi> grants it: Where then is the Falſneſs of the Charge? And why is he Angry if he prefers the Spirit of God for the firſt great or ſupreme Rule of his Children? I'll grant him that the Holy Scriptures, that were wrote by Holy Men, as they were moved by the Holy Spirit, are the ſecondary and ſubordinate Rule. What falſe Doctrine is there in this?</p>
+            <p>And in p. 6. <hi>B. B.</hi> ſaith, <hi>Chriſt ſends us to the Holy Scripture to ſearch for him, and not to the Light that is within; and there<g ref="char:EOLhyphen"/>fore we have reaſon to hearken to him, and not to thoſe that would draw us from them to ſomething</hi> better <hi>in our own Hearts and Con<g ref="char:EOLhyphen"/>ſciences, which we ſhould keep cloſe to.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> The firſt part, relating to what Chriſt ſaid, <hi>John</hi> 5.39,40. I grant that Chriſt's Words, <hi>Search or ye ſearch,</hi> &amp;c. do not carry any Reproof in them for their Searching the Scri<g ref="char:EOLhyphen"/>ptures, but for their not coming to him the true Light, and thinking to have Eternal Life in the Scriptures: For, ſaid he, <hi>They are they that teſtifie of me,</hi> and then blamed them that they would not come to him, that they might have life, ſo that he did principally deſire they might come to him the true Light, that ſhines in their Hearts and Conſciences, and which is ſomething <hi>better</hi> than the Scriptures, that teſtifie of him, altho' <hi>B. Bird</hi> is not willing to hearken to them that would draw him to ſomething <hi>better</hi> than the Scriptures. O ſtrange! is this the Man that ſaith we ſhould keep to <hi>John</hi> 5.39,40. and yet will not come to Chriſt, which is ſomething <hi>better</hi> than the Scriptures; for altho' they he ſpoke to, thought to have Eternal Life, they were miſtaken: And if <hi>B. B.</hi> thinks ſo, he is miſtaken; for he cannot have Eternal Life, till he comes to Chriſt the true Light, and believes and walks there<g ref="char:EOLhyphen"/>in, which is the ſome thing, <hi>better</hi> than the Scriptures, which <hi>B. B.</hi> ſaith, he hath more Reaſon to hearken to. And I hear<g ref="char:EOLhyphen"/>tily wiſh <hi>B. B.</hi> did ſo and that all People did practiſe and believe according to Holy Scriptures.</p>
+            <p>And in p. 7 he ſaith, <hi>He, i. e.</hi> John Feild, <hi>finds Fault with many, ſaying, we cannot tell whether we have the Spirit of God in us, but by the Scripture; but can he or any one elſe tell how we ſhall know the Spirit of Truth to be in us but by the Scriptures of Truth.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> Yes, by its own Evidence and Work in our Hearts, becauſe that is not wanting to do that in us, which Chriſt, who is the Truth promiſed it ſhould, ſee <hi>John</hi> 16.7-13. He did not ſay the Scriptures ſhould convince of Sin, <hi>&amp;c.</hi> but the Spirit of Truth, which thoſe that wrote Scriptures were moved by, and by this
+<pb n="14" facs="tcp:172616:8"/>Spirit, and the Light thereof, thoſe that never ſee or hear the Scriptures may know Good and Evil (ſee <hi>Rom.</hi>) yea God and the Things of God, as well as thoſe did that were before the Scriptures were, as <hi>Adam, Enoch, Abraham</hi> and <hi>Moſes,</hi> who my Antagoniſts grant to have had immediate Converſe with God. And ſure that muſt be by the Spirit, and as God and his Spirit changeth not, ſo he can and doth by his Spirit let us know we are of God, as Primitive Chriſtians did, and that the whole World lies in Wickedneſs.</p>
+            <p>In p. 6. he ſaith, I asked what damnable Errors the Qua<g ref="char:EOLhyphen"/>kers hold? And <hi>B. B.</hi> ſaith, <hi>Let him read</hi> John Faldo's <hi>Book, called,</hi> Quakeriſm no Chriſtianity, <hi>and</hi> Thomas Danſon's The Quaker's Folly, <hi>and his</hi> Synopſis of Quakeriſm.</p>
+            <p>
+               <hi>Anſwer.</hi> Obſerve how he recommends me to our Adverſa<g ref="char:EOLhyphen"/>ries Books for Proof, would he have me refer him to thoſe Books that Papiſts or Presbyterians have writ againſt the Church of
+<hi>England,</hi> for proof that their Doctrines are Erro<g ref="char:EOLhyphen"/>neous and Damnable? This ſhews his Folly as well as Enmi<g ref="char:EOLhyphen"/>ty, and that he is not wiſe but otherwiſe, in that he would have Judgment againſt us, by falſe Accuſations; much like the High Prieſts and wicked Jews, that when they heard the Falſe Witneſſes accuſe our Lord and Maſter Jeſus Chriſt, cry<g ref="char:EOLhyphen"/>ed out, <hi>He is guilty of Death.</hi> But I hope the Wiſe and Judi<g ref="char:EOLhyphen"/>cious will hear and read our Anſwers, and conſider our Defence before they conclude us guilty, altho this Prieſt <hi>Bird</hi> and ſome others agree to condemn us, and ſuch that are willing to be ſo juſt to us I refer to our Anſwers, <hi>viz. Quakeriſm a new Nick-Name for old Chriſtianity, by</hi> W. Penn: And <hi>Ruſticus ad Acade<g ref="char:EOLhyphen"/>micos, by</hi> Sam. Fiſher.</p>
+            <p>There is one thing more this Buſie Advocate is offended with me for, which I ſhall now take notice of, and anſwer, and then conclude. In page 7 he ſaith, <hi>John Feild</hi> calls upon all to ceaſe from Men and their Teachers, that are in their Carnal State and Earthly Wiſdom, and Dark Conceivings, and to turn their Minds inward to the Saving Light of the Lord Jeſus Chriſt.—And then ſaith, <hi>What is this but a Cheat put upon Men, to call them to turn to a Light within them that is not there?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> I deny this; for if there be no Light there's no Sight, and if no Sight no Knowledge; if no Knowledge Peo<g ref="char:EOLhyphen"/>ple will Periſh and Dye. <hi>But as I live, ſaith the Lord God, I have no pleaſure in the death of the wicked, but that the wicked turn from his way and live,</hi> ſee
+<hi>Ezek.</hi> 33.11. And that he might not periſh, he hath ſhewed thee, O Man, what is good; and<pb n="15" facs="tcp:172616:8"/>what doth the Lord require of thee, but <hi>to do juſtly, and to love mercy, and walk humbly with thy God;</hi> by which it appears, there is Light in Men, and that gives Light and Knowledge; for as the Apoſtle ſaith, <hi>Eph.</hi> 5.13. <hi>All things that are re<g ref="char:EOLhyphen"/>proved, are made manifeſt by the Light; for whatſoever doth make manifeſt is Light.</hi> And this Light is that true Light that lighteth every Man that cometh into the World, which ſhews Man his <hi>D<g ref="char:V">Ʋ</g>TY,</hi> and manifeſts all things approved, diſcovers the thoughts of the Heart, and ſhews the ſecret Intents, Corruptions and Luſts that lodge in the evil Heart, out of which proceeds, as Chriſt ſaith, <hi>Mat.</hi> 15.19.
+<hi>Evil thoughts, murders, adulteries, fornications, thefts, falſe witneſs, blaſphemies.</hi> The two latter of which have proceeded out of
+<hi>B. Bird</hi>'s evil heart, by ſaying, It's a Cheat to call People to turn their Minds inward to the ſaving Light of the Lord Jeſus Chriſt.</p>
+            <p>And it was this I Exhorted all to turn their Minds inward unto, knowing that this Light is ſaving, and believing what <hi>John</hi> ſaith in the <hi>Revel.</hi> 21.24. <hi>That the Nations of them which are ſaved, ſhall walk in the Light of it.</hi> Therefore, in great Love and good Will to all I did, and do exhort, as Chriſt our Lord did, <hi>John</hi> 12.36. <hi>To believe in it, that they may become the Children of it,</hi> and by
+<hi>believing in it,</hi> may receive the knowledge of the glory of God in the face of Jeſus Chriſt; <hi>For God who commanded the light to ſhine out of darkneſs, hath ſhined in our hearts to give us the light of the knowledge of the glory of God in the face of Jeſus Chriſt,</hi> 2 Cor. 4.6. that we may come to have this Treaſure in our earthen Veſſels, which by hearing and following Men in their <hi>carnal State</hi> and <hi>earthly Wiſdom,</hi> and <hi>dark conceivings,</hi> none can ever attain unto.</p>
+            <p>Oh, therefore, I cannot but in great Love and tender good Will to the Souls of all, call unto them to ceaſe from Men and their Teachings that are in that <hi>carnal State</hi> and <hi>dark Con<g ref="char:EOLhyphen"/>ceivings,</hi> notwithſtanding <hi>pag.</hi> 8 <hi>B. Bird</hi> ſaith, Chriſt hath commiſſioned and promiſed to ſtand by the Teachings of Men, to the end of the World; yet I affirm its not Men in their <hi>carnal State, earthly Wiſdom</hi> and <hi>dark Conceivings,</hi> altho' <hi>B. Bird,</hi> that pretends to be a Miniſter of the Goſpel, doth ſo affirm, <hi>p.</hi> 8.
+<hi>viz. Theſe Teachings of Men, which you cry down, are in order to work Faith in them that believe, and for want of theſe Teachings of Men</hi> (i. e. <hi>in their</hi> carnal State <hi>and</hi> dark Conceiv<g ref="char:EOLhyphen"/>ings) <hi>millions of Souls periſh everlaſtingly;</hi> For where there is no Viſion the people periſh. <hi>And now ſeeing the Teachings of Men are in order to the Salvation of their Hearers: Are not you employed bp the Devil, to take Men off from thoſe Teachings that are ſo de<g ref="char:EOLhyphen"/>ſtructive to his Kingdom.</hi>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:172616:9"/>
+               <hi>Anſw.</hi> I deny, as before, the Teachings of Men in their <hi>car<g ref="char:EOLhyphen"/>nal State</hi> are in order to work Faith, altho' he affirms it is, and that in them that believe; mind the inconſiſtency, to work Faith in them that have Faith; oh! what a Miniſter is this. And I charge it on him for Untruth, <hi>i. e.</hi> that millions of Souls periſh everlaſtingly for want of theſe Teachings, or that ſuch Teachings of Men are in order to Salvation of their Hearers, and deny that
+<hi>we</hi> are imployed by the Devil, to take Men off from thoſe Teachings that are deſtructive to his Kingdom. This is another Falſhood. For our Chriſtian Endeavours, by the Grace of God are, to bring People to know the Teachings of God and Jeſus Chriſt by his Grace and Spirit in their own Hearts, and from under the Teachings of ſuch Men, that are not ſent of God, and to his Teachings, which will be deſtructive to the Devil's Kingdom, and be in order to eſtabliſh them in Righteouſneſs, in which God's Kingdom ſtands, and will tend to bring People off from any longer dealing with the Merchants of <hi>Babylon,</hi> or buying their Merchandize any more, or follow<g ref="char:EOLhyphen"/>ing thoſe that run, and God never ſent them; for they cannot profit the People at all, that are in the ſpirit and practice of thoſe that God by his Prophet cryed againſt, <hi>That teach for hire, and divine for mony:</hi> See <hi>Mich.</hi> 3.11. And <hi>Jeremiah</hi> ſaith, <hi>ch.</hi> 5.30,31.
+<hi>A wonderful and horrible thing is committed in the Land, the Prophets propheſie falſly, and the Prieſts bear rule by their means, and my People love to have it ſo, and what will you do in the end thereof?</hi> Oh, therefore, it was and is from <hi>ſuch</hi> Men and <hi>their</hi> Teachings, that I did and do call all to ceaſe from, and invite them to come to Jeſus Chriſt, and that grace and truth that is come by him, and appears to all, and is revealed in the hearts and inward parts; its this I would have them learn of, that they may be taught as the primitive Chriſtians were, to <hi>deny all ungodlineſs and worldly luſts, and to live ſoberly, righteouſly and godly in this preſent world,</hi> that ſo they may eſcape <hi>the Wrath of God that is revealed from Heaven againſt all unrighteouſ<g ref="char:EOLhyphen"/>neſs of Men,</hi> may know peace and find favour with God, and <hi>through the belief of the Truth</hi> may come to experience <hi>the Sanctification of the Spirit,</hi> and ſo be fitted for an entrance into God's Kingdom, and while here, may be fed with that Bread that comes down from Heaven, and not ſpend their Mony for that which is not <hi>Bread,</hi> nor their Labour for that which <hi>ſatisfieth</hi> not, but hearken and hear the <hi>Call</hi> of God's Grace and <hi>Voice</hi> of Chriſt <hi>in their Hearts,</hi> that their Souls may come to live, and that for evermore, <hi>is the ſincere deſire of him that deſires the good, and the eternal well being of all,</hi>
+            </p>
+            <closer>
+               <signed>JOHN FEILD.</signed>
+               <dateline>
+                  <hi>London,</hi>
+                  <date>22d 6th Month, 1695.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
